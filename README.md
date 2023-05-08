@@ -8,6 +8,10 @@ This is version 1, which is entirely Python for now, intended purely as a playgr
 
 You can find the writeup on this iteration on my blog: 
 
+This is probably going to be "frozen in time" after a followup blog post, with a new repo for the next "version" in this experiment.
+
+Works only on Linux targets. 
+
 ## Features:
 * Command Execution
 * Beacons every minute (you can change this in code)
