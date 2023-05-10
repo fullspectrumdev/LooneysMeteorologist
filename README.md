@@ -28,17 +28,17 @@ Works only on Linux targets.
 ## Usage
 Install flask, sqlite, requests - see requirements.txt
 
-Run mkdb.py to create the database.
+1. Run mkdb.py to create the database.
 
-Run c2.py to launch the command and control server. 
+2. Run c2.py to launch the command and control server. 
 
-Edit bot.py to point to your command and control server. 
+3. Edit bot.py to point to your command and control server. 
 
-Edit control.py to point to your command and control server.
+4. Edit control.py to point to your command and control server.
 
-Run bot.py on your target.
+5. Run bot.py on your target.
 
-Run control.py to list agents, list tasks, add tasks for agents, get output from tasks, cancel tasks... 
+6. Run control.py and use the arguments to list agents, list tasks, add tasks for agents, get output from tasks, cancel tasks... 
 
 
 
