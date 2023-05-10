@@ -6,7 +6,9 @@ All the code was generated with ChatGPT and then hand-fixed as needed to get a m
 
 This is version 1, which is entirely Python for now, intended purely as a playground/testbench.
 
-You can find the writeup on this iteration on my blog: 
+You can find the writeup on this iteration on my blog: www.fullspectrum.dev/chatgpt-assisted-implant-dev-part-1/
+
+
 
 This is probably going to be "frozen in time" after a followup blog post, with a new repo for the next "version" in this experiment.
 
